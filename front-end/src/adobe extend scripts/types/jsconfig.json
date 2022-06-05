@@ -1,0 +1,8 @@
+{
+    "compilterOptions": {
+        "module": "none",
+        "target": "ES3",
+        "nolib": true,
+        "checkJs": true
+        }
+}

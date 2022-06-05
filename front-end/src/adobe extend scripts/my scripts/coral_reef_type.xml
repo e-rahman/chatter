@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataCollection>
+  <description>
+    <title>Coral Reef Twitter Sentiment Types</title>
+  </description>
+  <data>
+    <type>joy</type>
+    <value>1.0</value>
+  </data>
+  <data>
+    <type>sadness</type>
+    <value>2.0</value>
+  </data>
+  <data>
+    <type>fear</type>
+    <value>3.0</value>
+  </data>
+  <data>
+    <type>disgust</type>
+    <value>4.0</value>
+  </data>
+  <data>
+    <type>anger</type>
+    <value>5.0</value>
+  </data>
+</dataCollection>
