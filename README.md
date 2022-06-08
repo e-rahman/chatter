@@ -10,6 +10,19 @@ chatter is your place to visualize what's trending online in real-time.  Pick yo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Sample Data Visualizations**
 
 *"Coral Reef" Twitter Sentiment Analysis*
