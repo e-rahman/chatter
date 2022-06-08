@@ -5,7 +5,7 @@ chatter is your place to visualize what's trending online in real-time.  Pick yo
 #beintheknow
 
 
-// Sample Data Visualizations
+Sample Data Visualizations
 
 "Coral Reef" Twitter Sentiment Analysis
 
